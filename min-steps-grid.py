@@ -1,3 +1,11 @@
+# Input Format
+# Given two integer arrays A and B, where A[i] is x coordinate and B[i] is y coordinate of ith point respectively.
+
+
+
+# Output Format
+# Return an Integer, i.e minimum number of steps.
+# Can move one step each in 8 directions
 class Solution:
     # @param A : list of integers
     # @param B : list of integers
